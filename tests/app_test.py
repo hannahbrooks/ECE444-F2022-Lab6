@@ -85,6 +85,7 @@ def test_delete_message(client):
     data = json.loads(rv.data)
     assert data["status"] == 1
 
+
 def test_search_messages(client):
     """Ensure the user can search messages"""
     login(client, app.config["USERNAME"], app.config["PASSWORD"])
