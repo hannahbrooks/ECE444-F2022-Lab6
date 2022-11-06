@@ -3,6 +3,9 @@
 
 This repo follows steps 1-18 of https://github.com/mjhea0/flaskr-tdd.
 
+## Unit Tests
+https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-2-pitcrew/blob/main/Education_Pathways/tests/test_app.py#L40-L46
+
 ## Pros and Cons of TDD
 Test Drive Development (abbreviated to TDD) is a method of writing software where you begin by writing tests that fail, and slowly start writing code to make those tests pass. The key is that the test are written before the coding begins.
 
